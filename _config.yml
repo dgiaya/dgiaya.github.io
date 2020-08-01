@@ -70,7 +70,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:dgiaya@whoi.edu"
+      url: "mailto:dennis@floatingideas.blog"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.floatingideas.blog"
@@ -80,6 +80,9 @@ author:
 
 footer:
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:dennis@floatingideas.blog"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dgiaya/dgiaya.github.io"
